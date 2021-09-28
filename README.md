@@ -9,10 +9,10 @@ This is a simple website to create and access blog posts and webpages.
 
 * Home: https://gaurir06.github.io/
 * This is the home page of the website.
-* 
+
 * Blog: https://gaurir06.github.io/blog/
 * This page contains the links to all the posts .
-* 
+
 * About: https://gaurir06.github.io/about/
 * This is the webpage that I created.
 
